@@ -1,9 +1,11 @@
-
-.natvar{
-    position: fixed;
-    width: 10rem;
+main{
+    display: flex;
     
 }
+.natvar{
+    position: fixed;
+}
+
 h2{
     margin-top: 4rem;
     margin-left: 3rem;
@@ -22,9 +24,36 @@ button{
     margin-bottom: 1rem;
     
 }
-
-h3{
-    font-size: 1.6rem;
-    display: flex;
-
+header{
+    width: 24rem;
 }
+
+section{
+    margin-top: 1rem;
+    margin-left: 3rem;
+    display: flex;
+    
+    
+    
+}
+article{
+    font-size: 1.6rem;
+}
+ h3{
+    color: darkblue;
+ }
+ .sectionGeneral {
+    padding-left: 21rem ;
+    margin-top: 4rem;
+ }
+ .size{
+    font-size: 2rem;
+ }
+h3{
+    font-size: 3rem;
+}
+ h6{
+    color: aqua;
+ }
+
+ 
